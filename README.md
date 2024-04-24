@@ -1,7 +1,7 @@
 # Standoff 2: Scratch Edition
 <p align="center">
     
-![GitHub Cover](test)
+![GitHub Cover](https://raw.githubusercontent.com/Wanja01YT/standoff2-scratch/main/github-banner.png)
     
 </p>
 
