@@ -5,7 +5,7 @@
     
 </p>
 
-[![Static Badge](https://img.shields.io/badge/scratch-0.1.0-orange?logo=scratch&logoColor=orange)](about:blank)
+[![Static Badge](https://img.shields.io/badge/scratch-0.1.0-orange?logo=scratch&logoColor=orange)](https://scratch.mit.edu/projects/1005755113/)
 [![Static Badge](https://img.shields.io/badge/gamejolt-0.1.0-green?logo=gamejolt&logoColor=green)](https://gamejolt.com/games/standoff2-scratch/892066)
 [![Static Badge](https://img.shields.io/badge/itch.io-0.1.0-FA5C5C?logo=itchdotio&logoColor=FA5C5C)](https://wanja01yt.itch.io/standoff2-scratch)
 [![Static Badge](https://img.shields.io/badge/license-CC%204.0%20BY--NC--SA-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
