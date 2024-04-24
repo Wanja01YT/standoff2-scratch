@@ -13,6 +13,14 @@
 
 A complete recreation of [Standoff 2](https://install.standoff2.com/) inside of the [Scratch](https://scratch.mit.edu/) game engine, including the training mode, full main menu and even some skins! 👀
 
+## Downloads
+
+- Windows
+- MacOS
+- Linux
+
+[Source Code (.sb3)](https://github.com/Wanja01YT/standoff2-scratch/releases/download/source-code/3DTest.sb3)
+
 ## Controls
 
 - 1 / 2 / 3 - Pistol / Rifle / Knife
