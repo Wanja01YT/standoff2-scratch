@@ -15,11 +15,9 @@ A complete recreation of [Standoff 2](https://install.standoff2.com/) inside of 
 
 ## Downloads
 
-- Windows
-- MacOS
-- Linux
-
-[Source Code (.sb3)](https://github.com/Wanja01YT/standoff2-scratch/releases/download/source-code/3DTest.sb3)
+- [Windows](https://github.com/Wanja01YT/standoff2-scratch/releases/download/source-code/standoff2-scratch-win64.zip)
+- [MacOS (Intel / Silicon)](https://github.com/Wanja01YT/standoff2-scratch/releases/download/source-code/standoff2-scratch-macos.zip)
+- [Linux](https://github.com/Wanja01YT/standoff2-scratch/releases/download/source-code/standoff2-scratch-linux.zip)
 
 ## Controls
 
